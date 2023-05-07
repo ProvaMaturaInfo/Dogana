@@ -72,11 +72,6 @@
     position: relative;
     opacity: 1.0;
 }
-
-.custom-navbar {
-  background-color: #5fffff; /* Cambia il colore a quello che preferisci */
-}
-
 .sfondo {
     background-image: url("../img/check.jpg");
     background-repeat: no-repeat;
